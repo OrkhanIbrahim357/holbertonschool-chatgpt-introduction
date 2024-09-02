@@ -21,7 +21,3 @@ try:
 except ValueError:
     print("Please provide a valid integer.")
     sys.exit(1)
-
-
-
-#salam
